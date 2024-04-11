@@ -1,9 +1,9 @@
 {
-    "name": "ʙᴀɴ ᴀʟʟ",
+    "name": "𓆩〭⃛〬🥀🇩𝜠𝙑𝙄𝙇 🇼𝙊𝙍𝙇𝘿🇮🇳‌🇧𝗮𝗻🇦𝗹𝗹 🇧𝘰𝘵",
     "description": "sɪᴍᴘʟᴇ ʙᴏᴛ ᴛᴏ ʙᴀɴ ᴀʟʟ ᴛʜᴇ ᴍᴇᴍʙᴇʀs ғʀᴏᴍ ᴛʜᴇ ᴡʜᴏʟᴇ ᴄʜᴀᴛs",
-    "logo": "https://telegra.ph/file/bc9699c365f82b7ca0f32.jpg",
+    "logo": "https://graph.org/file/78ea38a25e933a60f867b.jpg",
     "keywords": ["ᴋɪsᴀɴ-ʀᴀᴠɪ", "ʙᴀɴ-ᴀʟʟ"],
-    "repository": "https://github.com/iVINGSTYLE/BANALL",
+    "repository": "https://github.com/Devilking12/BANALL",
     "stack": "container",
     "env": {
         "BOT_TOKEN": {
